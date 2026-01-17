@@ -491,10 +491,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - Update documentation for new features
 - Test your changes thoroughly
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 👥 Authors
 
 - **Harsh1652** - [GitHub Profile](https://github.com/Harsh1652)
@@ -511,31 +507,5 @@ This project is open source and available under the [MIT License](LICENSE).
 - **Cloudflare** - R2 object storage
 - **shadcn** - UI component library
 
-## 📞 Support
-
-For issues, questions, or contributions:
-- Open an issue on the [GitHub repository](https://github.com/Harsh1652/DRHP-RHP)
-- Check the [PROJECT_EXPLANATION.md](./PROJECT_EXPLANATION.md) for detailed documentation
-- Review the [Backend README](./smart-rhtp-backend-main/README.md) for API details
-- Review the [Frontend README](./RHP-Document-Summarizer-main/README.md) for frontend details
-
-## 📖 Additional Documentation
-
-- **[PROJECT_EXPLANATION.md](./PROJECT_EXPLANATION.md)**: Comprehensive file-by-file explanation of the entire codebase
-- **[DOMAIN_SEPARATION_GUIDE.md](./smart-rhtp-backend-main/DOMAIN_SEPARATION_GUIDE.md)**: Guide for domain/workspace separation implementation
-- **[Backend README](./smart-rhtp-backend-main/README.md)**: Backend API documentation
-- **[Frontend README](./RHP-Document-Summarizer-main/README.md)**: Frontend setup and usage
-
-## 🔄 Version History
-
-- **v1.0.0** - Initial release with core features
-  - Document upload and management
-  - AI-powered summarization
-  - Interactive chat interface
-  - Version comparison
-  - Workspace management
-  - Domain separation
-
----
 
 **Note**: This platform is designed for financial document analysis and should be used in compliance with relevant regulations and data privacy requirements. Ensure proper data handling and security measures are in place for production deployments.
